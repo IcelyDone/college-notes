@@ -1,0 +1,10 @@
+__Arithmetic sequence:__
+  -A term that is sequentially incremented additively (a,a+d,a+2d,...)
+  -Number of terms: n = (max-min)/d + 1
+
+Rule 1: Xn = a + d(n-1)
+Rule 2: [n-1]Sigma[k=0](a+dk)
+Rule 3: [n-1]Sigma[k=0](a+dk) = n/2(2a + d(n-1))
+  a=1 (first term)
+  d=3 (common difference)
+  n=8 (number of terms)
