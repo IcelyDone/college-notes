@@ -1,0 +1,16 @@
+import turtle
+
+whateverYouWant = turtle.Turtle()
+
+for i in range(10):
+  whateverYouWant.forward(50)
+  whateverYouWant.left(36)
+
+# ================================================================
+
+for i in range (3):
+  print("I'm lookin' for a mind at work!")
+
+# ================================================================
+
+"There are3fun days in a week"A
