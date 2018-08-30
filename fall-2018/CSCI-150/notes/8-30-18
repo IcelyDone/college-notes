@@ -1,0 +1,29 @@
+Discrete Math:
+  -Math for computing
+  -Math of everyday (puzzles)
+  -Not continuous: limited, literal, formulaic...
+
+Graphs: A set of vertexes connected by a set of edges
+  **Planar Graphs**: graphs that have non-intersecting edges
+  Degree of Vertex: the number of edges it neighbors
+
+================================================================================
+                                  WHY COUNT?
+
+1. Establish facts or relations
+
+2. Understand the complexity of things
+
+
+
+
+================================================================================
+                                EULER'S FORMULA
+
+(For any planar graph):
+
+                                v - e + f = 2
+
+                        v = vertexes (points)
+                        e = edges (lines between points)
+                        f = faces (regions created, including outer)
