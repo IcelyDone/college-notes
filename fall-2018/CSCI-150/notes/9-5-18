@@ -1,0 +1,28 @@
+                            THE ADDITION PRINCIPLE
+
+Given k sets, S1, S2, S3,...,Sk (that are pairwise disjoint!)
+(|Sk| = # of elements in set Sk)
+
+Total # of elements is |S1| + |S2| + |S3| + ... + |Sk|
+
+
+--Generating snakes in Snakes and Ladders--
+
+  1. Choose one square
+  2. Choose another square
+
+================================================================================
+                        THE MULTIPLICATION PRINCIPLE
+
+If a task can be broken down in to k stages, and stage i (the ith stage) can be carried
+out in di ways independently from previous stages,
+then the number of ways the entire task can be carries out is:
+
+d1 * d2 * ... * dk
+
+(Think of tree paths! Multiply by the number of branches in each stage.)
+
+--Combinatorial argument--
+  (n choose 2) = (n) =   n(n-1)
+                 (2)     ------
+                           2
