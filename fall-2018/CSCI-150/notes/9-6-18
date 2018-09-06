@@ -1,0 +1,7 @@
+                                HANDSHAKE LEMMA
+
+2 * edges = sum of all degrees
+
+1. Every seating assignment can be generated
+2. No garbage (I don't generate an invalid seating)
+3. Overcount?
